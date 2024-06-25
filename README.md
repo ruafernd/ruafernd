@@ -1,4 +1,4 @@
-## Hi there, I'm OTAIMER 2.0 👋
+## Hi there, I'm Ruã 👋
 
 - 🔭 I’m currently working on support ti
 - 🌱 I’m currently learning Cyber Security
