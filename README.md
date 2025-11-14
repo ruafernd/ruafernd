@@ -37,7 +37,7 @@
     Estatísticas do GitHub
   </h3>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruafernd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5C7CFA&icon_color=5C7CFA&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruafernd&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=5C7CFA&icon_color=5C7CFA&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruafernd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5C7CFA&text_color=FFFFFF"/>
 </div>
 
