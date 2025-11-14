@@ -11,12 +11,8 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/ruafernd">
-    <img src="https://img.shields.io/github/followers/ruafernd?label=Seguidores&style=flat-square&logo=github&logoColor=white&color=5865F2" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/ruafernd?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ruafernd?label=Estrelas&style=flat-square&logo=github&logoColor=white&color=5865F2" alt="GitHub Stars"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/ruafernd?label=Seguidores&style=flat-square&logo=github&logoColor=white&color=5865F2" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/ruafernd?label=Estrelas&style=flat-square&logo=github&logoColor=white&color=5865F2" alt="GitHub Stars"/>
 </div>
 
 <br />
@@ -79,15 +75,9 @@
     Conecte-se
   </h3>
   
-  <a href="https://www.linkedin.com/in/ruafernd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/ruafernd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/ruafernd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
 <br />
@@ -96,9 +86,4 @@
   <img src="https://komarev.com/ghpvc/?username=ruafernd&color=5C7CFA&style=flat-square" alt="Profile views"/>
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ruafernd/ruafernd/gh-pages/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
 
